@@ -105,6 +105,7 @@ void main()
 	cout << "Enter number: ";
 	cin >> move;
 	//sdsadsadds
+	//aosdppojadsad
 
 	for (int i = 0; i < 2; i++)
 	{
