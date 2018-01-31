@@ -106,6 +106,7 @@ void main()
 	cin >> move;
 	//sdsadsadds
 	//aosdppojadsad
+	////////////
 
 	for (int i = 0; i < 2; i++)
 	{
