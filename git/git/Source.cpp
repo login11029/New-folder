@@ -102,11 +102,6 @@ void main()
 		}
 	}
 
-	cout << "Enter number: ";
-	cin >> move;
-	//sdsadsadds
-	//aosdppojadsad
-	////////////
 
 	for (int i = 0; i < 2; i++)
 	{
@@ -116,9 +111,9 @@ void main()
 		}
 		cout << endl;
 	}
+
 	cout << "Enter number: ";
 	cin >> move;
-
 
 	for (int k = 0; k < move; k++)
 	{
