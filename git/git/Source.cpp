@@ -104,6 +104,7 @@ void main()
 
 	cout << "Enter number: ";
 	cin >> move;
+	//sdsadsadds
 
 	for (int i = 0; i < 2; i++)
 	{
