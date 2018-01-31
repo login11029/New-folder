@@ -116,7 +116,9 @@ void main()
 		}
 		cout << endl;
 	}
+	cout << "Enter number: ";
 	cin >> move;
+
 
 	for (int k = 0; k < move; k++)
 	{
